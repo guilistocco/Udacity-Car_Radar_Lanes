@@ -11,7 +11,7 @@ As an engineer student, I saw the oportunity to use data science in a traffic co
 ## About the archives
 This repository works with data from radars all over São Paulo
 
-* Radar_Data_2.03.2018.csv contains all vehicles that radars could capture on the 2nd of March, 2018.
+* Radar_Data_2.03.2018.csv contains all vehicles that radars could capture on the 2nd of March, 2018. Data is avaliable at https://drive.google.com/file/d/1VG-t8t1mq_HZV-Ue6zkth_3Ne4IfCOrq/view?usp=sharing
 Some of the columns are speed (in dm/s, must be converted), length (in dm, must be converted), date of capture, type of vehicle, etc.
 * Lanes_type.xlsx tells the use of each lane
 * The .png files are images used on the medium post about the project
