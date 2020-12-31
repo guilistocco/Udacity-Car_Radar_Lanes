@@ -2,6 +2,10 @@
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guilistocco/Udacity-Car_Radar_Lanes/main?filepath=Radar_analysis.ipynb) 
+
+[Link to Medium post](https://guilistocco.medium.com/the-proof-that-your-assumptions-about-traffic-are-right-3820c23d496f)
+
+
  
  
 ## Why this is an important project?
@@ -11,7 +15,7 @@ As an engineer student, I saw the oportunity to use data science in a traffic co
 ## About the archives
 This repository works with data from radars all over São Paulo
 
-* Radar_Data_2.03.2018.csv contains all vehicles that radars could capture on the 2nd of March, 2018. Data is avaliable at https://drive.google.com/file/d/1VG-t8t1mq_HZV-Ue6zkth_3Ne4IfCOrq/view?usp=sharing . Some of the columns are speed (in dm/s, must be converted), length (in dm, must be converted), date of capture, type of vehicle, etc.
+* Radar_Data_2.03.2018.csv contains all vehicles that radars could capture on the 2nd of March, 2018. Data is avaliable at this [link](https://drive.google.com/file/d/1VG-t8t1mq_HZV-Ue6zkth_3Ne4IfCOrq/view?usp=sharing) . Some of the columns are speed (in dm/s, must be converted), length (in dm, must be converted), date of capture, type of vehicle, etc.
 * Lanes_type.xlsx tells the use of each lane
 * The .png files are images used on the medium post about the project
 * enviroment.yml contains the version of python and libraries used on this project. The purpose of this file is to allow the code to be reproducible
