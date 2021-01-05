@@ -1,5 +1,8 @@
 # Udacity-Car_Radar_Lanes
 
+Project to Udacity Nanodegree on Data Science. 
+Started on Dec, 2020.
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guilistocco/Udacity-Car_Radar_Lanes/main?filepath=Radar_analysis.ipynb) 
 
