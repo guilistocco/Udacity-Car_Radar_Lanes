@@ -9,7 +9,20 @@
  
  
 ## Why this is an important project?
-As an engineer student, I saw the oportunity to use data science in a traffic context. The porpuse of this project is to reflect about a few assumptions every one that uses public or private transportation wonder: Does cars on the left lane run faster? Does heavy vehicles alwyas stay on right lanes? How can we predict the speed of new cars? Those questions were answered using data science skills
+As an engineer student, I saw the oportunity to use data science in a traffic context. The porpuse of this project is to reflect about a few assumptions every one that uses public or private transportation wonder: Does cars on the left lane run faster? Does heavy vehicles alwyas stay on right lanes? How can we predict the speed of new cars? Those questions were answered using data science skills.
+
+## Summary of analysis
+
+Models using with real world data will hardly give surprising results, and here it couldn't be diferent. Using only a few tools like subseting, sorting and mapping is possible to answer good questions and even generalise some results.
+
+The findings are that the left lane of a road has higher speeds then others; speed and lane are well correlated as well as lengh and type of a vehycles; Random Forest scores 13% for one day of data.
+
+## Libraries
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Scikit Learn
 
 
 ## About the archives
@@ -39,3 +52,11 @@ Udacity-Car_Radar_Lanes/
 ├── LICENSE
 
 └── Radar_analysis.ipynb
+
+## Acknowledgements
+
+All code, analysis and descriptions in this repository were made by this user and can be modyfied by anyone.
+
+Data is provided by CET-SP and is avaliable for anyone to use and modify.
+
+If you wantt to contribute to this project just fill a pull request.
